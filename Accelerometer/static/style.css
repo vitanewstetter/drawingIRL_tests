@@ -1,0 +1,27 @@
+html{
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+.dot{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 300px;
+    transition: all 0.5s;
+    border-radius: 100%;
+}
+#canvas{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
