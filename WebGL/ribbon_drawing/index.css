@@ -1,0 +1,12 @@
+html, body{
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+button{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
